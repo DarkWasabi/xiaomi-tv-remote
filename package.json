@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "androidtv-remote": "^1.0.10",
+    "dotenv": "^16.0.1",
+    "pubnub": "^5.0.1"
+  }
+}
